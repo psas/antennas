@@ -1,2 +1,5 @@
-# antennas
-Antennas for PSAS launch vehicles, including cylindrical patch antennas (CPAs)
+# Antennas!
+
+This repo has information on antennas for PSAS launch vehicles, including linearly polarized cylindrical patch antennas (CPAs).
+
+
