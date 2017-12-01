@@ -14,13 +14,13 @@ Here's some links to previous work done:
 
 - Current CPA v4 antennas (Circa 2013)
    - https://github.com/psas/avionics-cad/tree/master/av3/cpa (Current Python design code)
-   - http://psas.pdx.edu/cpadesignv4/
-   - http://psas.pdx.edu/cpatuningv4/cpa_tuning/
+   - http://archive.psas.pdx.edu/cpadesignv4/
+   - http://archive.psas.pdx.edu/cpatuningv4/cpa_tuning/
 - CPA v3 antennas (Circa 2005)
-   - http://psas.pdx.edu/CpaDesignv3/
-   - http://psas.pdx.edu/CpaConstructionv3/
+   - http://archive.psas.pdx.edu/CpaDesignv3/
+   - http://archive.psas.pdx.edu/CpaConstructionv3/
 - CPA v2 antennas (Circa 2003)
-   - http://psas.pdx.edu/AntennaDesignLV2/
-   - http://psas.pdx.edu/AntennaConstructionLV2/
+   - http://archive.psas.pdx.edu/AntennaDesignLV2/
+   - http://archive.psas.pdx.edu/AntennaConstructionLV2/
 - Original thoughts on antennas
-   - http://psas.pdx.edu/AntennaLetter/
+   - http://archive.psas.pdx.edu/AntennaLetter/
